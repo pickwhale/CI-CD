@@ -4,7 +4,7 @@ on:
   push:
     branches: [ master ]
   issues:
-    types: [opened]s
+    types: [opened]
 
 jobs:
   build:
